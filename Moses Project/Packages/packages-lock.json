@@ -25,11 +25,11 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.rider": {
-      "version": "2.0.7",
+      "version": "3.0.7",
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.unity.test-framework": "1.1.1"
+        "com.unity.ext.nunit": "1.0.6"
       },
       "url": "https://packages.unity.com"
     },
@@ -59,12 +59,12 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.learn.iet-framework": {
-      "version": "1.2.3",
+      "version": "2.1.1",
       "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.editorcoroutines": "1.0.0",
-        "com.unity.settings-manager": "1.0.2"
+        "com.unity.settings-manager": "1.0.3"
       },
       "url": "https://packages.unity.com"
     },
@@ -85,7 +85,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.settings-manager": {
-      "version": "1.0.2",
+      "version": "1.0.3",
       "depth": 1,
       "source": "registry",
       "dependencies": {},
@@ -93,7 +93,7 @@
     },
     "com.unity.subsystemregistration": {
       "version": "1.1.0",
-      "depth": 2,
+      "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.modules.subsystems": "1.0.0"
@@ -137,7 +137,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.timeline": {
-      "version": "1.4.8",
+      "version": "1.6.3",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -167,15 +167,6 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
-    "com.unity.xr.arsubsystems": {
-      "version": "4.1.9",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.subsystemregistration": "1.1.0"
-      },
-      "url": "https://packages.unity.com"
-    },
     "com.unity.xr.core-utils": {
       "version": "2.0.0",
       "depth": 1,
@@ -197,15 +188,6 @@
         "com.unity.modules.audio": "1.0.0",
         "com.unity.modules.imgui": "1.0.0",
         "com.unity.modules.physics": "1.0.0"
-      },
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.xr.interactionsubsystems": {
-      "version": "1.0.1",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.subsystemregistration": "1.0.5"
       },
       "url": "https://packages.unity.com"
     },
@@ -259,20 +241,6 @@
         "com.unity.xr.management": "4.0.1",
         "com.unity.xr.legacyinputhelpers": "2.1.2",
         "com.unity.inputsystem": "1.0.2"
-      },
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.xr.windowsmr": {
-      "version": "4.6.1",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.modules.subsystems": "1.0.0",
-        "com.unity.modules.vr": "1.0.0",
-        "com.unity.modules.xr": "1.0.0",
-        "com.unity.xr.management": "4.0.1",
-        "com.unity.xr.interactionsubsystems": "1.0.1",
-        "com.unity.xr.arsubsystems": "4.0.9"
       },
       "url": "https://packages.unity.com"
     },
