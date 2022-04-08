@@ -9,7 +9,7 @@ public class SeaSplitWatcher : MonoBehaviour
     public GameObject trigger;
     public GameObject[] removeable;
     [Range(0.0f, 100.0f)] public float speed;
-    [Range(0.0f, -1000.0f)] public float threshold;
+    public float threshold;
 
     private bool moving;
 
