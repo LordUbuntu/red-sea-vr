@@ -12,12 +12,17 @@ public class SeaSplitWatcher : MonoBehaviour
     public float threshold;
     public AudioSource triggerSFX;
     private bool triggered;
+    private bool sfxPlayed;
 
     void move()
     {
         if (triggered)
         {
-            triggerSFX.Play();
+            if ( triggerSFX.isPlaying == false && sfxPlayed == false )
+            {
+                triggerSFX.Play();
+                sfxPlayed = true;
+            }
             Vector3 moveDir = new Vector3(0.0f, -1.0f, 0.0f) * speed * Time.deltaTime;
             foreach (GameObject obj in removeable)
             {
@@ -46,6 +51,7 @@ public class SeaSplitWatcher : MonoBehaviour
     // Start is called before the first frame update
     void Start() {
         triggered = false;
+        sfxPlayed = false;
     }
 
     // Update is called once per frame
