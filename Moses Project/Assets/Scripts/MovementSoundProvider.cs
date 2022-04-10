@@ -13,6 +13,7 @@ public class MovementSoundProvider : MonoBehaviour
     void Start()
     {
         player = GetComponent<CharacterController>();
+        waitTime = 0;
     }
 
     // Update is called once per frame
@@ -31,10 +32,6 @@ public class MovementSoundProvider : MonoBehaviour
                 Debug.Log("stopping sound");
                 walkingSFX.Stop();
             }
-        }
-        else
-        {
-            Debug.Log("playing sound");
         }
     }
 }
