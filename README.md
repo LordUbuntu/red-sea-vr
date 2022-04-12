@@ -1,5 +1,5 @@
 # red-sea-vr
-"The Moses Experience" By "The Red C#"
+"The Moses Experience" By "The Red Sea-Sharp"
 
 ## Introduction
 
@@ -23,7 +23,7 @@ This was a group project done for Andrew Park's 2022 CMPT401 Course (Special Top
 
 ### Team
 
-We named ourselves "The Red C#" as a play on words to what our chosen topic would be about.
+We named ourselves "The Red Sea-Sharp" as a play on words to what our chosen topic would be about.
 
 The team consisted of:
 - Jared Klassen
