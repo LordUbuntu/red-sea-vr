@@ -28,7 +28,7 @@ We named ourselves "The Red C#" as a play on words to what our chosen topic woul
 The team consisted of:
 - Jared Klassen
 - Melissa Buist
-- Kirin Klassen
+- Kieran Clarke
 - Jacobus Burger
 
 ## Technology
