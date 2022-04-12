@@ -7,17 +7,17 @@ This was a group project done for Andrew Park's 2022 CMPT401 Course (Special Top
 
 ## Screenshots
 
-[ss1](videos/screenshot.png)
+[ss1](Screenshots/screenshot.png)
 
-[ss2](videos/screenshot2.png)
+[ss2](Screenshots/screenshot2.png)
 
-[ss3](videos/screenshot3.png)
+[ss3](Screenshots/screenshot3.png)
 
-[ss4](videos/screenshot4.png)
+[ss4](Screenshots/screenshot4.png)
 
-[ss5](videos/screenshot5.png)
+[ss5](Screenshots/screenshot5.png)
 
-[ss6](videos/screenshot6.png)
+[ss6](Screenshots/screenshot6.png)
 
 ## Details
 
