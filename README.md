@@ -7,17 +7,17 @@ This was a group project done for Andrew Park's 2022 CMPT401 Course (Special Top
 
 ## Screenshots
 
-[ss1](https://github.com/LordUbuntu/red-sea-vr/blob/main/Screenshots/screenshot.png)
+![ss1](https://github.com/LordUbuntu/red-sea-vr/blob/main/Screenshots/screenshot.png)
 
-[ss2](https://github.com/LordUbuntu/red-sea-vr/blob/main/Screenshots/screenshot2.png)
+![ss2](https://github.com/LordUbuntu/red-sea-vr/blob/main/Screenshots/screenshot%202.png)
 
-[ss3](https://github.com/LordUbuntu/red-sea-vr/blob/main/Screenshots/screenshot3.png)
+![ss3](https://github.com/LordUbuntu/red-sea-vr/blob/main/Screenshots/screenshot3.png)
 
-[ss4](https://github.com/LordUbuntu/red-sea-vr/blob/main/Screenshots/screenshot4.png)
+![ss4](https://github.com/LordUbuntu/red-sea-vr/blob/main/Screenshots/screenshot4.png)
 
-[ss5](https://github.com/LordUbuntu/red-sea-vr/blob/main/Screenshots/screenshot5.png)
+![ss5](https://github.com/LordUbuntu/red-sea-vr/blob/main/Screenshots/screenshot5.png)
 
-[ss6](https://github.com/LordUbuntu/red-sea-vr/blob/main/Screenshots/screenshot6.png)
+![ss6](https://github.com/LordUbuntu/red-sea-vr/blob/main/Screenshots/screenshot6.png)
 
 ## Details
 
