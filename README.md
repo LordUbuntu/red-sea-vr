@@ -7,17 +7,21 @@ This was a group project done for Andrew Park's 2022 CMPT401 Course (Special Top
 
 ## Screenshots
 
-![ss1](https://github.com/LordUbuntu/red-sea-vr/blob/main/Screenshots/screenshot.png)
+![ss1](https://github.com/LordUbuntu/red-sea-vr/blob/main/Assignment%20Resources/screenshots/screenshot.png)
 
-![ss2](https://github.com/LordUbuntu/red-sea-vr/blob/main/Screenshots/screenshot%202.png)
+![ss2](https://github.com/LordUbuntu/red-sea-vr/blob/main/Assignment%20Resources/screenshots/screenshot%202.png)
 
-![ss3](https://github.com/LordUbuntu/red-sea-vr/blob/main/Screenshots/screenshot3.png)
+![ss3](https://github.com/LordUbuntu/red-sea-vr/blob/main/Assignment%20Resources/screenshots/screenshot3.png)
 
-![ss4](https://github.com/LordUbuntu/red-sea-vr/blob/main/Screenshots/screenshot4.png)
+![ss4](https://github.com/LordUbuntu/red-sea-vr/blob/main/Assignment%20Resources/screenshots/screenshot4.png)
 
-![ss5](https://github.com/LordUbuntu/red-sea-vr/blob/main/Screenshots/screenshot5.png)
+![ss5](https://github.com/LordUbuntu/red-sea-vr/blob/main/Assignment%20Resources/screenshots/screenshot5.png)
 
-![ss6](https://github.com/LordUbuntu/red-sea-vr/blob/main/Screenshots/screenshot6.png)
+![ss6](https://github.com/LordUbuntu/red-sea-vr/blob/main/Assignment%20Resources/screenshots/screenshot6.png)
+
+## Build
+
+There are instructions [here](https://github.com/LordUbuntu/red-sea-vr/tree/main/Assignment%20Resources/Instructions%20(Setup%20%26%20Navigation)). It can also be set up and built by hand by taking the project file "Moses Project", which is a unity project, and building or developing it by hand.
 
 ## Details
 
